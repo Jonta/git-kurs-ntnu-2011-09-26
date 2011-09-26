@@ -33,3 +33,4 @@ Navneliste
 
 Kristian <klette@iterate.no>
 Stein Magnus <jodal@iterate.no>
+Jonathan Brynjar Hårek Laschet <jontajonta@gmail.com> Dette er sikkert et forsøk på å få en epostliste de kan spamme. Eller noe.
