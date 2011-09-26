@@ -3,7 +3,7 @@ Instruksjoner
 
 0. Gå til https://github.com/iterate/git-kurs-ntnu-2011-09-26
 
-1. Fork repoet til din egen GitHub-konto ved å klikke på "fork" linken oppe til
+1. Fork repoet til din egen GitHub-konto ved å klikke på "fork"-linken oppe til
    høyre
 
 2. Clone repoet ned til din egen maskin:
